@@ -1,0 +1,26 @@
+@font-face{
+    font-family: 'FuenteAxis';
+    src: url(../fonts/bank-gothic-light-bt.ttf);
+}
+
+.navbar-default {
+    font-family:'FuenteAxis';
+    border: 0;
+    background-color: #585858;
+}
+
+.navbar-nav > li > a > a {
+    color: white;
+}
+
+.dropdown-menu{
+    background-color: #585858;
+}
+
+.dropdown-toggle{
+    color: white;
+}
+
+.dropdown-menu > li > a {
+    color: white;
+}
